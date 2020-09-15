@@ -1,0 +1,32 @@
+_repo: Bouvard-und-Pecuchet-Roman-aus-dem-Nachlass_63096
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fischer, Ernst Wilhelm
+    gutenberg_agent_id: '52283'
+    url: http://www.gutenberg.org/2009/agents/52283
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gustave_Flaubert
+    - http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_issued: '2020-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63096'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bouvard und Pécuchet
+
+  Roman aus dem Nachlass'
+url: http://www.gutenberg.org/ebooks/63096
